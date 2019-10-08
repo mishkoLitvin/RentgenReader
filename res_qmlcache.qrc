@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/img">
+        <file alias="arrow.png">arrow.png</file>
+        <file alias="dial.png">dial.png</file>
+    </qresource>
+</RCC>
